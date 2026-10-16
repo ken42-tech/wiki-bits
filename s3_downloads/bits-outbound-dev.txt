@@ -1014,7 +1014,7 @@ English:
 * "Admission के time पर कुल पचपन हज़ार एक सौ नब्बे रुपये देने होते हैं।"
 * "Professional Certificate in AI Engineering and MLOps के कुल fees छियानवे हज़ार रुपये plus GST हैं।"
 * "Professional Certificate in Generative AI and Agentic AI के कुल fees छियानवे हज़ार रुपये plus GST हैं।"
-* "Professional Certificate in AI Engineering and MLOps के Booking time पर बारह हज़ार पाँच सौ रुपये plus GST pay करने होते हैं। Generative AI and Agentic AI की booking fee admission offer के हिसाब से होती है।"
+* "Professional Certificate in AI Engineering and MLOps के Booking time पर बारह हज़ार पाँच सौ रुपये plus GST pay करने होते हैं। Generative AI and Agentic AI के Booking time पर बारह हजार रुपये pay करने होते हैं, जो programme fee में already included है।"
 # Unsupported details
 Do not invent:
 * Subject lists beyond provided examples

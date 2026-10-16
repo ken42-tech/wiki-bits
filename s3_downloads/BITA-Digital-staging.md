@@ -128,7 +128,7 @@ CRITICAL: The fees below are the definitive, authoritative source. They OVERRIDE
 | BSc in Data Science & AI                               | 3 Years (9 Trimesters)  | ₹1,500          | ₹19,500                                               | ₹35,690 per trimester | **₹3,40,710**     |
 | MSc in Data Science & AI                               | 2 Years (6 Trimesters)  | ₹1,500          | ₹16,500                                               | ₹38,500 per trimester | **₹2,47,500**     |
 | Professional Certificate in AI Engineering & MLOps     | Approximately 32 Weeks  | —               | ₹12,500 + GST (included)                              | ₹96,000 + GST         | **₹96,000 + GST** |
-| Professional Certificate in Generative AI & Agentic AI | Approximately 30 Weeks  | —               | As per admission offer (non-refundable if applicable) | ₹96,000 + GST         | **₹96,000 + GST** |
+| Professional Certificate in Generative AI & Agentic AI | Approximately 35 Weeks  | —               | ₹12,000 (included, non-refundable) | ₹96,000 + GST         | **₹96,000 + GST** |
 
 ### Optional Bridge / Preparedness Programmes
 
@@ -137,14 +137,14 @@ CRITICAL: The fees below are the definitive, authoritative source. They OVERRIDE
 | Mathematics Bridge Programme (B.S. applicants)                             | ₹8,250        |
 | Python / Programming Preparedness Programme                                | ₹8,500        |
 | AI Engineering & MLOps Bridge Programme (Python, AWS & Mathematics for AI) | ₹25,000 + GST |
-| Generative & Agentic AI Bridge Programme (Python & AWS)                    | ₹16,000 + GST |
+| Generative & Agentic AI Bridge Programme                                   | No longer applicable — a 5-week Python/cloud foundation is now built into the main programme |
 
 ### EMI Reference
 
 | Course                                                 | EMI Option                                                     |
 | ------------------------------------------------------ | -------------------------------------------------------------- |
 | Professional Certificate in AI Engineering & MLOps     | ₹16,422/month (6-month interest-free EMI)                      |
-| Professional Certificate in Generative AI & Agentic AI | As per available payment partner options (per admission cycle) |
+| Professional Certificate in Generative AI & Agentic AI | ₹16,520/month (6-month interest-free EMI)                      |
 
 ### International Fees — ONLY IF USER EXPLICITLY ASKS
 
