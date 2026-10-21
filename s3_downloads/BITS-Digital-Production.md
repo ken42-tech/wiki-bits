@@ -265,7 +265,7 @@ Latest verified admissions snapshot (newest wiki):
 - B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final Mathematics Qualifier Test (MQT) date not yet announced; direct learner and Foundation Course learner orientation is 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027. Do not call this the Mathematics Bridge Programme in current applicant-facing communication.
 - M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Mathematics and Programming Refresher Programmes run in parallel with Trimester 1.
 - Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
-- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in AI Engineering and MLOps: not offered for the December 2026 intake; the next intended intake is February 2027, with dates yet to be announced.
 - Professional Certificate in Generative AI and Agentic AI: application deadline is 16 November 2026; orientation is 4 December 2026 (time to be confirmed); first Module zero class is 12 December 2026.
 - Professional Certificate in Cybersecurity and Secure Software Development: orientation and batch commencement are To Be Announced.
 - For an applicant's payment or admission deadline, use the deadline in their current Offer Letter or subsequent official communication; do not infer a universal application cutoff from older snapshots.

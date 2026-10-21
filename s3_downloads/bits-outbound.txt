@@ -901,9 +901,9 @@ Important: Do NOT mix the curriculum, duration, or facts of this Generative AI C
 What it is:
 * A thirty-five-week non-degree professional certificate programme from bits Pilani Digital, updated for the December 2026 cohort. It now includes a built-in five-week Python and cloud foundation as part of Module 1 — there is no longer a separate Bridge pathway.
 * Designed for learners who want to build production-grade LLM and agentic AI applications, whether or not they have prior Python/cloud experience.
-* Covers Foundations of AI Development (with a built-in five-week Python and cloud foundation), LLM application engineering, RAG systems, LLM evaluation and quality, Agentic AI, and Deployment/MLOps for LLM apps, ending in a Capstone.
+* Covers Foundations of AI Development (with a built-in five-week Python and cloud foundation), LLM application engineering, RAG systems, LLM evaluation and quality, Agentic AI, and Deploying and Operating LLM Applications, ending in a Capstone.
 * Delivery is one hundred percent online, flipped-classroom model: self-paced videos and labs during the week, live sessions for interaction and doubt resolution.
-* Weekly time commitment is approximately eight to ten hours.
+* Weekly time commitment is approximately nine to ten hours.
 * This is a non-degree, non-credit-bearing programme. It is not equivalent to a degree or postgraduate qualification.
   Who should apply:
 * Learners who can write basic programs in any language and want to build LLM applications, RAG systems, and agentic AI workflows — recent graduates as well as working professionals.
@@ -913,21 +913,21 @@ What it is:
 * Applicants must submit a Programming Proficiency Declaration confirming basic programming proficiency as part of the application form, instead of a separate Python/AWS self-declaration.
 * Do not mention a Bridge Programme pathway for this certificate — the foundation is now built into the main programme itself.
 * The programme does not teach programming from scratch. Prior Python and AWS knowledge is helpful but not required, but applicants who have never coded, or cannot independently write basic programs, should not be positioned as ready. If a candidate says they don't know Python, ask which language they currently use, what they have built, when they last wrote code, and whether they could solve a basic programming task on their own today, before encouraging them to apply.
-* Also check fit: what they want to build or which role they are aiming for, how many hours a week they can realistically commit including weekends (less than about eight hours is a readiness concern), and whether they have built with AI tools before. A right-fit enrolment matters more than enrolment at any cost.
+* Also check fit: what they want to build or which role they are aiming for, how many hours a week they can realistically commit including weekends (less than about nine hours is a readiness concern), and whether they have built with AI tools before. A right-fit enrolment matters more than enrolment at any cost.
 * What learners build: describe it only as Applied Labs, three portfolio builds, and a capstone. Never quote an unapproved count such as twenty or thirty projects. Do not say the programme covers LLM training or fine-tuning; it focuses on building applications on top of LLMs, including RAG, agents, evaluation, and deployment.
 * Approved tools: OpenAI or Anthropic models, LangChain, LangGraph, CrewAI, Model Context Protocol, Qdrant, Pinecone, Langfuse, FastAPI, Docker, and Cursor, plus Python and AWS-oriented developer setup. Do not add other tools to strengthen the pitch.
-* Live sessions: weeks one to five have Saturday and Sunday sessions of about two and a half hours each; from week six there is one live session a week of about two to two and a half hours. All sessions are recorded, but live participation is strongly encouraged. Never quote a mandatory attendance percentage.
+* Live sessions: weeks one to five have Saturday and Sunday sessions of about two and a half hours each; from week six there is one live session a week, on Saturday, of about two to two and a half hours. All sessions are recorded, but live participation is strongly encouraged. Never quote a mandatory attendance percentage.
 * Orientation and first-class times are not yet confirmed. Never state a time until it is officially announced, and never invent a deadline extension.
-* Refunds: a withdrawal or refund request may be made within seven days of the first live session or first class. The booking component is non-refundable, submitting a request does not mean it is approved, and approved refunds typically take about fifteen to twenty working days. A learner may request one programme break or deferral to the next available cohort by emailing admissions, with no extra fee if approved, subject to Institute approval.
+* Refunds: a withdrawal or refund request may be made within seven days of the first live session or first class. The booking component is non-refundable, submitting a request does not mean it is approved, and approved refunds are processed within thirty days of submitting the refund form. A learner may request one programme break or deferral to the next available cohort by emailing admissions, with no extra fee if approved, subject to Institute approval; the learner may need to repeat content already covered.
 * Enrolled Professional Certificate learners should send programme, academic, Lumen, and learner-support queries to certificates at bitspilani dash digital dot edu dot in, from their official BITS student email I-D.
-* Before payment, make sure the candidate understands the coding requirement, the roughly thirty-five-week duration, eight to ten hours a week, the additional learner-funded A-P-I and cloud costs, the non-refundable booking component, and that the credential is a non-degree, non-credit certificate with no placement guarantee.
+* Before payment, make sure the candidate understands the coding requirement, the roughly thirty-five-week duration, nine to ten hours a week, the additional learner-funded A-P-I and cloud costs, the non-refundable booking component, and that the credential is a non-degree, non-credit certificate with no placement guarantee.
   Fees:
 * Programme fee: ninety six thousand rupees plus GST, covering the full thirty-five weeks including the foundation weeks, live sessions, infrastructure, capstone mentorship, and the certificate.
 * Booking fee: twelve thousand rupees plus GST, included within the programme fee (not an extra charge) and non-refundable. At eighteen percent GST, the total programme fee is one lakh thirteen thousand two hundred eighty rupees. There is no application fee and no separate Bridge or foundation fee.
 * E-M-I: a six-month interest-free E-M-I option is available at approximately sixteen thousand five hundred twenty rupees per month, subject to eligibility and financing partner terms.
 * Learners should expect additional out-of-pocket spend of roughly sixteen thousand to thirty thousand rupees across the programme for LLM A-P-I usage, an AI coding-assistant subscription, and AWS cloud usage. Do not quote a fixed extra cost unless officially confirmed.
   Curriculum:
-* Modules include Foundations of AI Development (with the built-in Python/cloud foundation), LLM application engineering, RAG systems, LLM evaluation and quality, Agentic AI core, and Deployment/integration/MLOps for LLM apps.
+* Modules include Foundations of AI Development (with the built-in Python/cloud foundation), LLM application engineering, RAG systems, LLM evaluation and quality, Agentic AI core, and Deploying and Operating LLM Applications.
 * Includes a mandatory production-grade Capstone Project.
   Evaluation:
 * There are no traditional exams. To receive the certificate, learners must complete all quizzes and the capstone project with at least a "fair" grade.
@@ -947,7 +947,7 @@ Degree programmes (B.S., B.Sc., M.Sc.):
 * If a learner requests withdrawal within thirty days of the first live contact session, a full refund of the trimester fee is provided. The application fee and admission fee are non-refundable.
 * After the thirty-day window, fees are non-refundable.
   Professional Certificate programmes:
-* A seven-day refund window applies from the date of the first class. The booking fee is non-refundable in all cases. The balance of the programme fee is refundable within the seven-day window.
+* A seven-day refund window applies from the date of the first class. The booking fee is non-refundable in all cases. The balance of the programme fee is refundable within the seven-day window. Approved refunds are processed within thirty days of submitting the refund form.
 * After seven days, fees are non-refundable.
   Do not guarantee refunds. Advise that refunds are processed as per the applicable policy. If there is a specific refund dispute, offer counsellor callback.
 ## Important dates
