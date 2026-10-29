@@ -188,6 +188,8 @@ B.S. in Data Science & AI → B.S. in Data Science & AI, B.S. in DS & AI, B.Sc. 
 M.Sc. in Data Science & AI → M.Sc. in Data Science & AI, M.Sc. in DS & AI, M.Sc in Data Science & Artificial Intelligence, MSc Data Science AI\
 Professional Certificate in AI Engineering & MLOps → Professional Certificate in AI Engineering & MLOps, AI Engineering & MLOps Certificate, Professional Certificate AI MLOps
 
+M.Sc. in Computer Science & AI → `M.Sc. in Computer Science & AI`, `MSc in Computer Science and Artificial Intelligence`, `MSc CS & AI`, `MSc CS AI`
+
 Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newest S3 source):
 
 - Trimester 4: Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Advanced Apex Project III - 2 credits.
@@ -218,6 +220,7 @@ Latest verified Professional Certificate eligibility snapshot:
 - Do not apply this Grade 12 Mathematics rule to the Professional Certificate in AI Engineering and MLOps; verify that programme's eligibility separately from its KB source.
 - Professional Certificate in Generative AI and Agentic AI guardrails: we do not teach programming from scratch; prior Python/AWS knowledge is helpful but not required, but applicants who cannot independently write basic programs should not be positioned as ready. Describe what learners build only as Applied Labs, three portfolio builds and a capstone (never quote project counts), and do not position LLM training or fine-tuning as part of the programme. Orientation (4 December 2026) and first-class (12 December 2026) times are not yet confirmed; never state a time. Enrolled Professional Certificate learners should write to certificates@bitspilani-digital.edu.in from their official BITS student email ID.
 - Professional Certificate in AI Engineering and MLOps is not being offered for the December 2026 intake; the next intended intake is February 2027 and its dates are yet to be announced. Do not communicate any February dates until officially confirmed.
+- M.Sc. in Computer Science and AI (new programme): a two-year (six-trimester) M.Sc. from BITS Pilani, offered through BITS Pilani Digital, with a maximum of four years. Common first year includes Machine Learning and Generative AI Applications for all learners; in year two learners may choose one of four optional specialisations (CyberSecurity, Cloud Technologies, Full Stack Engineering with DevOps, Machine Learning and Generative AI) or a broader elective pathway. Indian eligibility: a three- or four-year bachelor's degree with Mathematics or Statistics and 60% overall (55% with 5+ years or 50% with 10+ years of relevant experience); not restricted to CS/engineering graduates; no entrance test. Fees and intake dates are not yet published: do not quote any amount or date, and never borrow values from another programme. Never describe it as an upgrade of the M.Sc. in Data Science and AI. It has no confirmed Meritto picklist value yet, so omit `campus`/`course` for this programme until one is provided.
 
 Latest verified scholarship and fee-discount snapshot:
 

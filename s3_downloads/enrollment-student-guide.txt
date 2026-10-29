@@ -297,6 +297,8 @@ Use spoken rupee amounts. Do not use rupee symbols in spoken answers. Select the
 * Total due at admission: fifty five thousand rupees.
 * M.Sc. full programme fee including admission: two lakh forty seven thousand five hundred rupees.
 * E-M-I: a zero percent E-M-I option is available. First trimester instalment including admission fee is eighteen thousand three hundred thirty three rupees per month. Second trimester onwards instalment is twelve thousand eight hundred thirty three rupees per month.
+### M.Sc. in Computer Science and AI
+* Fee amounts for this programme are not yet in the approved knowledge source. Use only the amounts and deadlines in the candidate's Offer Letter and the application portal, and never quote figures from the M.Sc. in Data Science and AI or any other programme.
 ### Professional Certificate in AI Engineering and MLOps
 * Total programme fee: ninety six thousand rupees plus G-S-T.
 * Booking fee (non-refundable, due at admission): twelve thousand five hundred rupees plus G-S-T.

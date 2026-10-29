@@ -521,6 +521,33 @@ Standard footer (applies to all guidance given from this section — do not read
 * Degrees are awarded by bits Pilani, an Institution of Eminence.
 * Programmes are offered in online mode under the applicable online learning framework.
 * As per UGC online and ODL regulations, recognised online degrees are treated as equivalent to conventional-mode degrees.
+## M.Sc. in Computer Science and Artificial Intelligence
+Important: This is a separate programme from the M.Sc. in Data Science and AI. Never describe it as an upgrade of the Data Science and AI programme, and never use Data Science and AI fees, dates, eligibility, or specialisation rules for it.
+What it is:
+* A two-year postgraduate degree over six trimesters: the M.Sc. in Computer Science and Artificial Intelligence from bits Pilani, an Institution of Eminence, offered through bits Pilani Digital. It can be completed within a maximum of four years, or twelve trimesters, subject to academic rules.
+* Positioning: Computer Science for the AI era. It builds the knowledge to design, build, secure, deploy, and operate computing systems and intelligent applications, with AI integrated throughout.
+* Primary audience: technology professionals. Eligible fresh graduates are also welcome.
+* The common first year covers Mathematical Foundations for Computing, Programming and Data Structures, Operating Systems, Computer Organisation and Architecture, Object-Oriented Programming and Design, Algorithm Design and Problem Solving, Machine Learning, Relational and Modern Databases, Computer Networks, Cloud Services and Platforms, Secure Software Development Practices, and Generative AI Applications. Every learner studies Machine Learning and Generative AI Applications.
+* In the second year, learners choose one of four optional specialisations: CyberSecurity; Cloud Technologies; Full Stack Engineering with DevOps; or Machine Learning and Generative AI. Alternatively, they take a broader elective pathway with no specialisation.
+* Includes two required Advanced Apex Projects and an industry-designed and vetted twelve-unit Capstone. The graduation requirement is seventy six units.
+Eligibility (Indian applicants):
+* A three-year or four-year bachelor's degree with Mathematics or Statistics as a subject and at least sixty percent overall marks. Work experience is not mandatory on this standard route, and the degree does not have to be in Computer Science or engineering.
+* Experience-based marks concessions: fifty five percent or above with at least five years of relevant work experience, or fifty percent or above with at least ten years. bits Pilani decides whether experience counts as relevant, and the Mathematics or Statistics requirement still applies.
+* Without Mathematics or Statistics in the bachelor's degree, the stated alternative is concurrent enrolment in a STEM postgraduate programme in science or engineering that includes Mathematics. Refer such cases to Admissions.
+Eligibility (international applicants):
+* A three-year or four-year STEM degree with Mathematics or Statistics, with at least a six point zero CGPA or sixty percent overall, plus an equivalence certificate from AIU, UGC, or an equivalent Indian statutory body. Refer unusual cases to Admissions.
+Admission:
+* There is no entrance test. Admission is based on eligibility and verification of academic records, and on the relevance of experience where a marks concession is requested. Do not promise an interview or a decision turnaround time.
+Learning and exams:
+* Recorded content is released weekly in short segments, and live faculty sessions are held on weekends, with extra practical sessions where required. Do not quote a weekly study-hours or live-hours figure.
+* Trimester-end examinations are mandatory and held offline at designated centres in India, mostly on weekends (Fridays, Saturdays, or Sundays), with regular and makeup slots. Applicants outside India may take online proctored exams on providing proof of location. Do not quote a fixed number of exam centres.
+Fees and dates:
+* Fee amounts and intake dates for this programme are not yet published in the approved knowledge source. Never quote a fee or a date, and never borrow figures from another programme. Offer an Admissions callback for fees and dates, or refer an offer holder to their Offer Letter and the application portal.
+* Published degree policies that apply: the full trimester fee is payable for each registered trimester regardless of the number of courses; an approved break carries a continuity fee of ten thousand rupees per trimester of absence, payable on return; withdrawal within thirty days of the first live contact session of the first trimester gives a full trimester-fee refund, while application and admission fees are non-refundable. Cloud or GPU usage beyond shared environments is learner-funded.
+Career support:
+* The IGNITE Career Support Cell provides career-readiness workshops, resume building, mock interviews, industry talks, networking, and access to job openings, and is most active in the final year. Never guarantee a job, promotion, shortlisting, or salary.
+Choosing between the two M.Sc. programmes:
+* The M.Sc. in Computer Science and AI suits people who want to design, build, secure, and operate computing systems with AI integrated, across software, cloud, DevOps, cybersecurity, or ML engineering. The M.Sc. in Data Science and AI suits people focused on data, statistics, predictive models, and insights. The two overlap, so recommend based on the work the person wants to do.
 ## Application process
 ### B.S. and M.Sc. application process
 * Step one: Fill the online application form.
