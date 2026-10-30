@@ -127,6 +127,7 @@ CRITICAL: The fees below are the definitive, authoritative source. They OVERRIDE
 | BS in Data Science & AI                                | 4 Years (12 Trimesters) | ₹1,500          | ₹19,500                                               | ₹35,690 per trimester | **₹4,47,780**     |
 | BSc in Data Science & AI                               | 3 Years (9 Trimesters)  | ₹1,500          | ₹19,500                                               | ₹35,690 per trimester | **₹3,40,710**     |
 | MSc in Data Science & AI                               | 2 Years (6 Trimesters)  | ₹1,500          | ₹16,500                                               | ₹38,500 per trimester | **₹2,47,500**     |
+| MSc in Computer Science & AI                           | 2 Years (6 Trimesters)  | ₹1,500          | ₹16,500                                               | ₹38,500 per trimester | **₹2,47,500**     |
 | Professional Certificate in AI Engineering & MLOps     | Approximately 32 Weeks  | —               | ₹12,500 + GST (included)                              | ₹96,000 + GST         | **₹96,000 + GST** |
 | Professional Certificate in Generative AI & Agentic AI | Approximately 35 Weeks  | Nil             | ₹12,000 + GST (included, non-refundable) | ₹96,000 + GST         | **₹96,000 + GST** |
 
@@ -145,6 +146,7 @@ CRITICAL: The fees below are the definitive, authoritative source. They OVERRIDE
 | ------------------------------------------------------ | -------------------------------------------------------------- |
 | Professional Certificate in AI Engineering & MLOps     | ₹16,422/month (6-month interest-free EMI)                      |
 | Professional Certificate in Generative AI & Agentic AI | ₹16,520/month (6-month interest-free EMI)                      |
+| MSc in Computer Science & AI                           | 0% EMI: ₹18,333/month for the 1st trimester (includes admission fee), ₹12,833/month from the 2nd trimester onwards |
 
 ### International Fees — ONLY IF USER EXPLICITLY ASKS
 
@@ -155,6 +157,7 @@ CRITICAL: NEVER show international fees unless the user explicitly asks for "int
 | BS in Data Science & AI (12 Trimesters) | $5,734               | $8,631        |
 | BSc in Data Science & AI (9 Trimesters) | $4,363               | $6,567        |
 | MSc in Data Science & AI (6 Trimesters) | $3,185               | $4,783        |
+| MSc in Computer Science & AI (6 Trimesters) | $3,185               | $4,783        |
 
 Fee Presentation Rules:
 
@@ -198,9 +201,10 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 
 Latest verified admissions snapshot (newest wiki):
 
-- B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final Mathematics Qualifier Test (MQT) date not yet announced; direct learner and Foundation Course learner orientation is 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027. Do not call this the Mathematics Bridge Programme in current applicant-facing communication.
-- M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Mathematics and Programming Refresher Programmes run in parallel with Trimester 1.
-- Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
+- B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final Mathematics Qualifier Test (MQT) date not yet announced; direct learner and Foundation Course learner orientation is likely 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027. Do not call this the Mathematics Bridge Programme in current applicant-facing communication.
+- M.Sc. in Data Science and AI: application deadline is 16 November 2026; orientation is likely 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Mathematics and Programming Refresher Programmes run in parallel with Trimester 1.
+- M.Sc. in Computer Science and AI: application deadline is 7 December 2026; orientation is likely 9 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027.
+- Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is likely scheduled for 8 January 2027.
 - Professional Certificate in AI Engineering and MLOps: not offered for the December 2026 intake; the next intended intake is February 2027, with dates yet to be announced.
 - Professional Certificate in Generative AI and Agentic AI: application deadline is 16 November 2026; orientation is 4 December 2026 (time to be confirmed); first Module zero class is 12 December 2026.
 - Professional Certificate in Cybersecurity and Secure Software Development: orientation and batch commencement are To Be Announced.
@@ -220,7 +224,7 @@ Latest verified Professional Certificate eligibility snapshot:
 - Do not apply this Grade 12 Mathematics rule to the Professional Certificate in AI Engineering and MLOps; verify that programme's eligibility separately from its KB source.
 - Professional Certificate in Generative AI and Agentic AI guardrails: we do not teach programming from scratch; prior Python/AWS knowledge is helpful but not required, but applicants who cannot independently write basic programs should not be positioned as ready. Describe what learners build only as Applied Labs, three portfolio builds and a capstone (never quote project counts), and do not position LLM training or fine-tuning as part of the programme. Orientation (4 December 2026) and first-class (12 December 2026) times are not yet confirmed; never state a time. Enrolled Professional Certificate learners should write to certificates@bitspilani-digital.edu.in from their official BITS student email ID.
 - Professional Certificate in AI Engineering and MLOps is not being offered for the December 2026 intake; the next intended intake is February 2027 and its dates are yet to be announced. Do not communicate any February dates until officially confirmed.
-- M.Sc. in Computer Science and AI (new programme): a two-year (six-trimester) M.Sc. from BITS Pilani, offered through BITS Pilani Digital, with a maximum of four years. Common first year includes Machine Learning and Generative AI Applications for all learners; in year two learners may choose one of four optional specialisations (CyberSecurity, Cloud Technologies, Full Stack Engineering with DevOps, Machine Learning and Generative AI) or a broader elective pathway. Indian eligibility: a three- or four-year bachelor's degree with Mathematics or Statistics and 60% overall (55% with 5+ years or 50% with 10+ years of relevant experience); not restricted to CS/engineering graduates; no entrance test. Fees and intake dates are not yet published: do not quote any amount or date, and never borrow values from another programme. Never describe it as an upgrade of the M.Sc. in Data Science and AI. It has no confirmed Meritto picklist value yet, so omit `campus`/`course` for this programme until one is provided.
+- M.Sc. in Computer Science and AI (new programme): a two-year (six-trimester) M.Sc. from BITS Pilani, offered through BITS Pilani Digital, with a maximum of four years. Common first year includes Machine Learning and Generative AI Applications for all learners; in year two learners may choose one of four optional specialisations (CyberSecurity, Cloud Technologies, Full Stack Engineering with DevOps, Machine Learning and Generative AI) or a broader elective pathway. Indian eligibility: a three- or four-year bachelor's degree with Mathematics or Statistics and 60% overall (an experience-based marks concession may apply; confirm thresholds with Admissions, never quote them); not restricted to CS/engineering graduates; no entrance test. Fees (India): application ₹1,500, admission ₹16,500, tuition ₹38,500 per trimester, total ₹2,47,500 over 6 trimesters. Application deadline 7 December 2026; orientation likely 9 January 2027, 6:30 PM–8:00 PM IST; first class 15 January 2027. Never quote another programme's values for it. Never describe it as an upgrade of the M.Sc. in Data Science and AI. It has no confirmed Meritto picklist value yet, so omit `campus`/`course` for this programme until one is provided.
 
 Latest verified scholarship and fee-discount snapshot:
 
