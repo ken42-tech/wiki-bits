@@ -567,7 +567,7 @@ Choosing between the two M.Sc. programmes:
 ## Important dates (application deadlines)
 This table is the source-of-truth fallback used by the Deadline resolution rule when no database value is found for the lead's `{{program_name}}`.
 - The 1 September 2026 schedule reference does not publish a universal application cutoff. For an applicant's payment or admission deadline, use their current Offer Letter or subsequent official communication.
-- B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final MQT date not yet announced; direct learner and Foundation Course learner orientation is likely 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027.
+- B.S. in Data Science and AI (January 2027 intake, final application deadline 16 November 2026): final MQT is 6 February 2027; direct learner and Foundation Course learner orientation is likely 8 January 2027, 6:30 PM–8:00 PM IST; the first class for direct B.S. learners is 15 January 2027; Foundation Course in Mathematics classes begin 23 January 2027.
 - M.Sc. in Data Science and AI: application deadline is 16 November 2026; orientation is likely 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Refresher Programmes run in parallel with Trimester 1.
 - M.Sc. in Computer Science and AI: application deadline is 7 December 2026; orientation is likely 9 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027.
 - Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is likely scheduled for 8 January 2027.
@@ -610,6 +610,8 @@ For all of the above: if the guidance doesn't resolve it, or the case needs indi
 ## Common technical/document blockers (guidance only — route to callback only after the FAQ above doesn't resolve it)
 * Login/OTP issues, upload issues, and payment/gateway failures are covered above — walk the applicant through the relevant guidance first.
 * If the person is unsure what documents are needed for their specific programme, give the general list above and offer a callback only for a document-specific review the portal itself can't clarify.
+## Offer Letter and payment guidance
+* The learner's current Offer Letter and the Application Portal are the authoritative reference for admission fees and payment. Never tell a learner to deduct a fee from an Offer Letter, make a partial payment the portal does not support, use an unofficial payment link, or make a second payment while an earlier authorised payment is awaiting reconciliation (that can take about twenty four to forty eight hours). A learner who has already paid should not pay again because of an automated reminder.
 ## Admissions contact
 * Email: admissions at bitspilani dash digital dot edu dot in.
 * AI Admissions Assistant and helpline: plus nine one eight four two three six six two three six six.
